@@ -1,0 +1,2 @@
+token = "your_dc_token_here"
+city = "your_city"
